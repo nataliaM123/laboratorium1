@@ -1,8 +1,8 @@
 # CMake generation dependency list for this directory.
-C:/PW1/src/CMakeLists.txt
+C:/PW1/laboratorium1/src/CMakeLists.txt
 C:/Users/student/Downloads/cmake-3.7.2-win32-x86/share/cmake-3.7/Modules/CMakeDetermineSystem.cmake
 C:/Users/student/Downloads/cmake-3.7.2-win32-x86/share/cmake-3.7/Modules/CMakeSystem.cmake.in
-C:/PW1/build/CMakeFiles/3.7.2/CMakeSystem.cmake
+C:/PW1/laboratorium1/build/CMakeFiles/3.7.2/CMakeSystem.cmake
 C:/Users/student/Downloads/cmake-3.7.2-win32-x86/share/cmake-3.7/Modules/CMakeSystemSpecificInitialize.cmake
 C:/Users/student/Downloads/cmake-3.7.2-win32-x86/share/cmake-3.7/Modules/CMakeDetermineCCompiler.cmake
 C:/Users/student/Downloads/cmake-3.7.2-win32-x86/share/cmake-3.7/Modules/CMakeDetermineCompiler.cmake
@@ -46,7 +46,7 @@ C:/Users/student/Downloads/cmake-3.7.2-win32-x86/share/cmake-3.7/Modules/Compile
 C:/Users/student/Downloads/cmake-3.7.2-win32-x86/share/cmake-3.7/Modules/CompilerId/VS-10.vcxproj.in
 C:/Users/student/Downloads/cmake-3.7.2-win32-x86/share/cmake-3.7/Modules/CMakeFindBinUtils.cmake
 C:/Users/student/Downloads/cmake-3.7.2-win32-x86/share/cmake-3.7/Modules/CMakeCCompiler.cmake.in
-C:/PW1/build/CMakeFiles/3.7.2/CMakeCCompiler.cmake
+C:/PW1/laboratorium1/build/CMakeFiles/3.7.2/CMakeCCompiler.cmake
 C:/Users/student/Downloads/cmake-3.7.2-win32-x86/share/cmake-3.7/Modules/CMakeDetermineCXXCompiler.cmake
 C:/Users/student/Downloads/cmake-3.7.2-win32-x86/share/cmake-3.7/Modules/CMakeDetermineCompiler.cmake
 C:/Users/student/Downloads/cmake-3.7.2-win32-x86/share/cmake-3.7/Modules/Platform/Windows-Determine-CXX.cmake
@@ -88,7 +88,7 @@ C:/Users/student/Downloads/cmake-3.7.2-win32-x86/share/cmake-3.7/Modules/Compile
 C:/Users/student/Downloads/cmake-3.7.2-win32-x86/share/cmake-3.7/Modules/CompilerId/VS-10.vcxproj.in
 C:/Users/student/Downloads/cmake-3.7.2-win32-x86/share/cmake-3.7/Modules/CMakeFindBinUtils.cmake
 C:/Users/student/Downloads/cmake-3.7.2-win32-x86/share/cmake-3.7/Modules/CMakeCXXCompiler.cmake.in
-C:/PW1/build/CMakeFiles/3.7.2/CMakeCXXCompiler.cmake
+C:/PW1/laboratorium1/build/CMakeFiles/3.7.2/CMakeCXXCompiler.cmake
 C:/Users/student/Downloads/cmake-3.7.2-win32-x86/share/cmake-3.7/Modules/CMakeSystemSpecificInformation.cmake
 C:/Users/student/Downloads/cmake-3.7.2-win32-x86/share/cmake-3.7/Modules/CMakeGenericSystem.cmake
 C:/Users/student/Downloads/cmake-3.7.2-win32-x86/share/cmake-3.7/Modules/Platform/Windows.cmake
@@ -99,7 +99,7 @@ C:/Users/student/Downloads/cmake-3.7.2-win32-x86/share/cmake-3.7/Modules/Platfor
 C:/Users/student/Downloads/cmake-3.7.2-win32-x86/share/cmake-3.7/Modules/Platform/Windows-MSVC.cmake
 C:/Users/student/Downloads/cmake-3.7.2-win32-x86/share/cmake-3.7/Modules/CMakeDetermineRCCompiler.cmake
 C:/Users/student/Downloads/cmake-3.7.2-win32-x86/share/cmake-3.7/Modules/CMakeRCCompiler.cmake.in
-C:/PW1/build/CMakeFiles/3.7.2/CMakeRCCompiler.cmake
+C:/PW1/laboratorium1/build/CMakeFiles/3.7.2/CMakeRCCompiler.cmake
 C:/Users/student/Downloads/cmake-3.7.2-win32-x86/share/cmake-3.7/Modules/CMakeRCInformation.cmake
 C:/Users/student/Downloads/cmake-3.7.2-win32-x86/share/cmake-3.7/Modules/CMakeTestRCCompiler.cmake
 C:/Users/student/Downloads/cmake-3.7.2-win32-x86/share/cmake-3.7/Modules/CMakeCommonLanguageInclude.cmake
@@ -110,7 +110,7 @@ C:/Users/student/Downloads/cmake-3.7.2-win32-x86/share/cmake-3.7/Modules/CMakePa
 C:/Users/student/Downloads/cmake-3.7.2-win32-x86/share/cmake-3.7/Modules/CMakeCCompilerABI.c
 C:/Users/student/Downloads/cmake-3.7.2-win32-x86/share/cmake-3.7/Modules/CMakeDetermineCompileFeatures.cmake
 C:/Users/student/Downloads/cmake-3.7.2-win32-x86/share/cmake-3.7/Modules/CMakeCCompiler.cmake.in
-C:/PW1/build/CMakeFiles/3.7.2/CMakeCCompiler.cmake
+C:/PW1/laboratorium1/build/CMakeFiles/3.7.2/CMakeCCompiler.cmake
 C:/Users/student/Downloads/cmake-3.7.2-win32-x86/share/cmake-3.7/Modules/CMakeCXXInformation.cmake
 C:/Users/student/Downloads/cmake-3.7.2-win32-x86/share/cmake-3.7/Modules/CMakeLanguageInformation.cmake
 C:/Users/student/Downloads/cmake-3.7.2-win32-x86/share/cmake-3.7/Modules/Compiler/MSVC-CXX.cmake
@@ -125,6 +125,6 @@ C:/Users/student/Downloads/cmake-3.7.2-win32-x86/share/cmake-3.7/Modules/CMakeCX
 C:/Users/student/Downloads/cmake-3.7.2-win32-x86/share/cmake-3.7/Modules/CMakeDetermineCompileFeatures.cmake
 C:/Users/student/Downloads/cmake-3.7.2-win32-x86/share/cmake-3.7/Modules/Internal/FeatureTesting.cmake
 C:/Users/student/Downloads/cmake-3.7.2-win32-x86/share/cmake-3.7/Modules/Compiler/MSVC-CXX-FeatureTests.cmake
-C:/PW1/build/CMakeFiles/feature_tests.cxx
+C:/PW1/laboratorium1/build/CMakeFiles/feature_tests.cxx
 C:/Users/student/Downloads/cmake-3.7.2-win32-x86/share/cmake-3.7/Modules/CMakeCXXCompiler.cmake.in
-C:/PW1/build/CMakeFiles/3.7.2/CMakeCXXCompiler.cmake
+C:/PW1/laboratorium1/build/CMakeFiles/3.7.2/CMakeCXXCompiler.cmake

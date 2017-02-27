@@ -1,0 +1,13 @@
+﻿Build started 2017-02-27 13:10:46.
+     1>Project "C:\PW1\laboratorium1\build\Trygonometria\Trygonometria.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /IC:\PW1\laboratorium1\src\Trygonometria /Zi /nologo /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"Trygonometria.dir\Debug\\" /Fd"Trygonometria.dir\Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt C:\PW1\laboratorium1\src\Trygonometria\trygonometria.cpp
+         trygonometria.cpp
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\Lib.exe /OUT:"C:\PW1\laboratorium1\build\Trygonometria\Debug\Trygonometria.lib" /NOLOGO  /machine:X86 Trygonometria.dir\Debug\trygonometria.obj
+         Trygonometria.vcxproj -> C:\PW1\laboratorium1\build\Trygonometria\Debug\Trygonometria.lib
+     1>Done Building Project "C:\PW1\laboratorium1\build\Trygonometria\Trygonometria.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.20
