@@ -1,4 +1,3 @@
 C:/PW1/laboratorium1/build/CMakeFiles/Laborka.dir
 C:/PW1/laboratorium1/build/CMakeFiles/ALL_BUILD.dir
 C:/PW1/laboratorium1/build/CMakeFiles/ZERO_CHECK.dir
-C:/PW1/laboratorium1/build/Trygonometria/CMakeFiles/Trygonometria.dir
